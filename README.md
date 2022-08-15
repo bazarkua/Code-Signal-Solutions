@@ -1,3 +1,5 @@
+Code Signal Solutions
+
 Hello This Repo has soultions for Code Signal Arcade Mode.
 
 I will update it while solving more problems.
